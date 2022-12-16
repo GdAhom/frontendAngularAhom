@@ -1,0 +1,15 @@
+:host {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .authentication-card {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.authentication-card-container {
+    min-height: 100vh;
+}

@@ -1,0 +1,9 @@
+.add-user-detail{
+    display: flex;
+    flex-direction: column;
+}
+
+.add-personal-detail{
+    display: flex;
+    flex-direction: column;
+}

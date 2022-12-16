@@ -1,0 +1,22 @@
+
+
+  .authentication-card {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+
+.authentication-card form{
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.authentication-card-container {
+    min-height: 100vh;
+    margin-top: 10%;
+    display: inline-block;
+    margin-left: 30%;
+}
+
+
